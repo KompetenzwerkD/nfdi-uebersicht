@@ -10,7 +10,7 @@ Wichtige Fakten:
 * festgeschrieben im Koalitionsvertrag des Bundes
 * Abwicklung über die Deutsche Forschungsgemeinschaft (DFG) 
 * rund 30 Konsortien geplant
-* drei Ausschreibungsrunden mit Deadline Herbst 2019, 2020, 2021
+* drei Ausschreibungsrunden mit Deadlines im Herbst 2019, 2020, 2021
 * wurden/werden über die einschlägigen Fachcommunities standortübergreifend beantragt 
 * in der Zukunft die maßgebliche Anlaufstelle im Bereich (digitaler) Forschungsdaten
 * Konsortien werden zunächst für fünf Jahre mit einem Budget von jeweils ca. 2-4 Mio EUR jährlich gefördert
@@ -50,7 +50,7 @@ Für den Schwerpunkt der (Digitalen) Geisteswissenschaften gibt es derzeit folge
 &nbsp;
 ### NFDI4Memory
 * Webauftritt: [Link](https://4memory.de/)
-* Kontakt: Johannes Paulmann: 4memory@ieg-mainz.de
+* Kontakt: Prof. Dr. Johannes Paulmann: 4memory@ieg-mainz.de
 * Stand: Antragstellung läuft, Abgabe im Oktober 2020 geplant
 * Beteiligte Netzwerkpartner: HAIT und ISGV
 * Hauptantragssteller: Leibniz Institut für Europäische Geschichte Mainz (IEG)
@@ -64,9 +64,9 @@ Für den Schwerpunkt der (Digitalen) Geisteswissenschaften gibt es derzeit folge
 ### NFDI4Objects
 * Webauftritt: [Link](https://www.nfdi4objects.net/)
 * Kontakt:
-  * Philipp von Rummel philipp.von.rummel@berliner-antike-kolleg.org
-  * Alexandra Busch generaldirektorin@rgzm.de
-  * Kai-Christian Bruhn kai-christian.bruhn@hs-mainz.de
+  * Prof. Dr. Philipp von Rummel philipp.von.rummel@berliner-antike-kolleg.org
+  * Prof. Dr. Alexandra Busch generaldirektorin@rgzm.de
+  * Prof. Dr. Kai-Christian Bruhn kai-christian.bruhn@hs-mainz.de
 * Stand: Antragstellung läuft, Abgabe im Oktober 2020 geplant
 * Beteiligte Netzwerkpartner: -
 * Hauptantragssteller: Deutsches Archäologisches Institut
@@ -108,5 +108,5 @@ Für den Schwerpunkt der (Digitalen) Geisteswissenschaften gibt es derzeit folge
 * Beteiligte Netzwerkpartner: -
 * Hauptantragssteller: Deutsches Forschungszentrum für Künstliche Intelligenz GmbH, DFKI, Kaiserslautern
 * Schwerpunkt: AI services for Natural Language Research Data
-* Fachdisziplinen: Informatik, Antike Kulturen, Geschichte, Kunstgeschichte, Linguistik, Literaturwissenschaft, Anthropolie/Volkskunde, Außereuropäische Kulturen, Judaistik, Religionswissenschaften
-Möglichkeiten der Teilhabe: bisher nicht
+* Fachdisziplinen: Informatik, Antike Kulturen, Geschichte, Kunstgeschichte, Linguistik, Literaturwissenschaft, Anthropologie/Volkskunde, Außereuropäische Kulturen, Judaistik, Religionswissenschaften
+Möglichkeiten der Teilhabe: Derzeit unklar. Sobald Informationen verfügbar sind, wird an dieser Stelle über Treffen und Gremien des Konsortiums informiert.
