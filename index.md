@@ -53,24 +53,24 @@ NFDI4Memory
 * Schwerpunkt: historische Methoden, historische Kontextualisierung
 * Fachdisziplinen: historisch engagierte Disziplinen wie Geschichtswissenschaften, aber auch Wirtschaftswissenschaften, Sozialwissenschaften und Geographie
 * Möglichkeiten der Teilhabe: Es werden (virtuelle) Community-Treffen zur Ermittlung der Bedarfe der historisch arbeitenden Fächer abgehalten. Umplanungen aufgrund der COVID-19-Pandemie finden derzeit statt.
-** Informationen: https://4memory.de/community-treffen/
-** [Link zur Anmeldung für das Community-Treffen in Halle am 24.04.] (https://www.esciences.uni-trier.de/events/event/nfdi4memory-community-treffen-am-24-april-2020-in-halle-saale/)
+ * Informationen: https://4memory.de/community-treffen/
+ * [Link zur Anmeldung für das Community-Treffen in Halle am 24.04.](https://www.esciences.uni-trier.de/events/event/nfdi4memory-community-treffen-am-24-april-2020-in-halle-saale/)
 
 
 NFDI4Objects
 * Webauftritt: [Link](https://www.nfdi4objects.net/)
 * Kontakt:
-** Philipp von Rummel philipp.von.rummel@berliner-antike-kolleg.org
-** Alexandra Busch generaldirektorin@rgzm.de
-** Kai-Christian Bruhn kai-christian.bruhn@hs-mainz.de
+ * Philipp von Rummel philipp.von.rummel@berliner-antike-kolleg.org
+ * Alexandra Busch generaldirektorin@rgzm.de
+ * Kai-Christian Bruhn kai-christian.bruhn@hs-mainz.de
 * Stand: Antragstellung läuft, Abgabe im Oktober 2020 geplant
 * Beteiligte Netzwerkpartner: -
 * Hauptantragssteller: Deutsches Archäologisches Institut
 * Schwerpunkt: Archäologien und materielle Kultur und Objekte; Samlungen, Feldforschung usw.
 * Fachdisziplinen: Archäologie, Anthropologie, Architekturgeschichte, Ethnoarchäologie, Geoarchäologie, Paläobotanik, Archäozoologie, Archäogenetik, Paläopathologie, Geophysik und Archäometrie
 * Möglichkeiten der Teilhabe:
-** Openscience-Projekt zur aktiven Mitarbeit: https://osf.io/4t29e/
-** Einrichtung von Mitgliederforum und offenem Mitgliederforum geplant (zum Austausch mit den “Nutzenden”)
+ * [Openscience-Projekt zur aktiven Mitarbeit](https://osf.io/4t29e/)
+ * Einrichtung von Mitgliederforum und offenem Mitgliederforum geplant (zum Austausch mit den “Nutzenden”)
 
 NFDI4TheoReS
 * Webauftritt: bisher nicht vorhanden
@@ -85,8 +85,8 @@ NFDI4TheoReS
 NFDI Small Disciplines
 * Webauftritt: bisher nicht vorhanden
 * Kontakt:
-** Prof. Dr. Gerd Graßhoff gerd.graßhoff@hu-berlin.de
-** Prof. Dr. Andreas Degkwitz andreas.degkwitz@ub.hu-berlin.de
+ * Prof. Dr. Gerd Graßhoff gerd.graßhoff@hu-berlin.de
+ * Prof. Dr. Andreas Degkwitz andreas.degkwitz@ub.hu-berlin.de
 * Stand: Einreichung ursprünglich geplant für Oktober 2020, geht scheinbar in NFDI4Memory auf
 * Beteiligte Netzwerkpartner: -
 * Hauptantragssteller: Humboldt-Universität zu Berlin
