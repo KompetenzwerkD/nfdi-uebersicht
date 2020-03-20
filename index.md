@@ -21,7 +21,7 @@ Wichtige Fakten:
 
 Für den Schwerpunkt der (Digitalen) Geisteswissenschaften gibt es derzeit folgende Konsortieninitiativen:
 
-
+&nbsp;
 ### NFDI Text+
 * Webauftritt: [Link](https://www.text-plus.org/)
 * Kontakt: Erhard Hinrichs hinrichs@ids-mannheim.de 
@@ -32,7 +32,7 @@ Für den Schwerpunkt der (Digitalen) Geisteswissenschaften gibt es derzeit folge
 * Fachdisziplinen: Sprach-, Literatur-, Kultur- und die                                 Geschichtswissenschaften, Philosophie und sprach- und textbasierte Forschung in den Sozial- und Politikwissenschaften
 * Möglichkeiten der Teilhabe: Nach der Förderentscheidung wird an dieser Stelle über Treffen und Gremien des Konsortiums informiert
 
-
+&nbsp;
 ### NFDI4Culture
 * Webauftritt: [Link](https://www.nfdi4culture.de/)
 * Kontakt:
@@ -46,7 +46,7 @@ Für den Schwerpunkt der (Digitalen) Geisteswissenschaften gibt es derzeit folge
 * Fachdisziplinen: Kulturwissenschaften, Musikwissenschaft, Kunstgeschichte, Architektur, Theater-, Film- und Medienwissenschaft
 * Möglichkeiten der Teilhabe: Nach der Förderentscheidung wird an dieser Stelle über Treffen und Gremien des Konsortiums informiert
 
-
+&nbsp;
 ### NFDI4Memory
 * Webauftritt: [Link](https://4memory.de/)
 * Kontakt: Johannes Paulmann: 4memory@ieg-mainz.de
@@ -59,7 +59,7 @@ Für den Schwerpunkt der (Digitalen) Geisteswissenschaften gibt es derzeit folge
   * Informationen: https://4memory.de/community-treffen/
   * [Link zur Anmeldung für das Community-Treffen in Halle am 24.04.](https://www.esciences.uni-trier.de/events/event/nfdi4memory-community-treffen-am-24-april-2020-in-halle-saale/)
 
-
+&nbsp;
 ### NFDI4Objects
 * Webauftritt: [Link](https://www.nfdi4objects.net/)
 * Kontakt:
@@ -75,7 +75,7 @@ Für den Schwerpunkt der (Digitalen) Geisteswissenschaften gibt es derzeit folge
   * [Openscience-Projekt zur aktiven Mitarbeit](https://osf.io/4t29e/)
   * Einrichtung von Mitgliederforum und offenem Mitgliederforum geplant (zum Austausch mit den “Nutzenden”)
 
-
+&nbsp;
 ### NFDI4TheoReS
 * Webauftritt: bisher nicht vorhanden
 * Kontakt: Prof. Dr. Hans-Peter Grosshans grosshans@uni-muenster.de
@@ -86,7 +86,7 @@ Für den Schwerpunkt der (Digitalen) Geisteswissenschaften gibt es derzeit folge
 * Fachdisziplinen: Theologien und Religionswissenschaften, teilweise auch Philosophie, Recht, Sozialwissenschaften, Geschichte, Orientalistik, Ethnologie, Kulturwissenschaften, Sinologie
 * Möglichkeiten der Teilhabe: Derzeit unklar. Sobald Informationen verfügbar sind, wird an dieser Stelle über Treffen und Gremien des Konsortiums informiert.
 
-
+&nbsp;
 ### NFDI Small Disciplines
 * Webauftritt: bisher nicht vorhanden
 * Kontakt:
@@ -99,7 +99,7 @@ Für den Schwerpunkt der (Digitalen) Geisteswissenschaften gibt es derzeit folge
 * Fachdisziplinen: Sozial- und Verhaltenswissenschaften, Mathematik, Bauwesen, Ingenieurwesen und Architektur
 * Möglichkeiten der Teilhabe: Derzeit unklar. Sobald Informationen verfügbar sind, wird an dieser Stelle über Treffen und Gremien des Konsortiums informiert.
 
-
+&nbsp;
 ### NFDI4Language (für Künstliche Intelligenz und historische und linguistische Fächer)
 * Webauftritt: bisher nicht vorhanden
 * Kontakt: Dr. Georg Rehm georg.rehm@dfki.de
