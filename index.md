@@ -56,7 +56,7 @@ Für den Schwerpunkt der (Digitalen) Geisteswissenschaften gibt es derzeit folge
 * Schwerpunkt: historische Methoden, historische Kontextualisierung
 * Fachdisziplinen: historisch engagierte Disziplinen wie Geschichtswissenschaften, aber auch Wirtschaftswissenschaften, Sozialwissenschaften und Geographie
 * Möglichkeiten der Teilhabe: Es werden (virtuelle) Community-Treffen zur Ermittlung der Bedarfe der historisch arbeitenden Fächer abgehalten. Umplanungen aufgrund der COVID-19-Pandemie finden derzeit statt.
-  * Informationen: https://4memory.de/community-treffen/
+  * [Informationen zu den Community-Treffen](https://4memory.de/community-treffen/)
   * [Link zur Anmeldung für das Community-Treffen in Halle am 24.04.](https://www.esciences.uni-trier.de/events/event/nfdi4memory-community-treffen-am-24-april-2020-in-halle-saale/)
 
 &nbsp;
