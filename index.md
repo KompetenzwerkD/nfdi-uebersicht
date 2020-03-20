@@ -21,7 +21,8 @@ Wichtige Fakten:
 
 Für den Schwerpunkt der (Digitalen) Geisteswissenschaften gibt es derzeit folgende Konsortieninitiativen:
 
-NFDI Text+
+
+### NFDI Text+
 * Webauftritt: [Link](https://www.text-plus.org/)
 * Kontakt: Erhard Hinrichs hinrichs@ids-mannheim.de 
 * Stand: derzeit in Begutachtung, Entscheidung im Frühsommer 2020
@@ -31,7 +32,8 @@ NFDI Text+
 * Fachdisziplinen: Sprach-, Literatur-, Kultur- und die                                 Geschichtswissenschaften, Philosophie und sprach- und textbasierte Forschung in den Sozial- und Politikwissenschaften
 * Möglichkeiten der Teilhabe: Nach der Förderentscheidung wird an dieser Stelle über Treffen und Gremien des Konsortiums informiert
 
-NFDI4Culture
+
+### NFDI4Culture
 * Webauftritt: [Link](https://www.nfdi4culture.de/)
 * Kontakt:
   * Prof. Dr. Dörte Schmidt dschmidt@udk-berlin.de
@@ -44,7 +46,8 @@ NFDI4Culture
 * Fachdisziplinen: Kulturwissenschaften, Musikwissenschaft, Kunstgeschichte, Architektur, Theater-, Film- und Medienwissenschaft
 * Möglichkeiten der Teilhabe: Nach der Förderentscheidung wird an dieser Stelle über Treffen und Gremien des Konsortiums informiert
 
-NFDI4Memory
+
+### NFDI4Memory
 * Webauftritt: [Link](https://4memory.de/)
 * Kontakt: Johannes Paulmann: 4memory@ieg-mainz.de
 * Stand: Antragstellung läuft, Abgabe im Oktober 2020 geplant
@@ -57,7 +60,7 @@ NFDI4Memory
   * [Link zur Anmeldung für das Community-Treffen in Halle am 24.04.](https://www.esciences.uni-trier.de/events/event/nfdi4memory-community-treffen-am-24-april-2020-in-halle-saale/)
 
 
-NFDI4Objects
+### NFDI4Objects
 * Webauftritt: [Link](https://www.nfdi4objects.net/)
 * Kontakt:
   * Philipp von Rummel philipp.von.rummel@berliner-antike-kolleg.org
@@ -72,7 +75,8 @@ NFDI4Objects
   * [Openscience-Projekt zur aktiven Mitarbeit](https://osf.io/4t29e/)
   * Einrichtung von Mitgliederforum und offenem Mitgliederforum geplant (zum Austausch mit den “Nutzenden”)
 
-NFDI4TheoReS
+
+### NFDI4TheoReS
 * Webauftritt: bisher nicht vorhanden
 * Kontakt: Prof. Dr. Hans-Peter Grosshans grosshans@uni-muenster.de
 * Stand: Antragstellung läuft, Abgabe im Oktober 2020 geplant
@@ -82,7 +86,8 @@ NFDI4TheoReS
 * Fachdisziplinen: Theologien und Religionswissenschaften, teilweise auch Philosophie, Recht, Sozialwissenschaften, Geschichte, Orientalistik, Ethnologie, Kulturwissenschaften, Sinologie
 * Möglichkeiten der Teilhabe: Derzeit unklar. Sobald Informationen verfügbar sind, wird an dieser Stelle über Treffen und Gremien des Konsortiums informiert.
 
-NFDI Small Disciplines
+
+### NFDI Small Disciplines
 * Webauftritt: bisher nicht vorhanden
 * Kontakt:
   * Prof. Dr. Gerd Graßhoff gerd.graßhoff@hu-berlin.de
@@ -94,7 +99,8 @@ NFDI Small Disciplines
 * Fachdisziplinen: Sozial- und Verhaltenswissenschaften, Mathematik, Bauwesen, Ingenieurwesen und Architektur
 * Möglichkeiten der Teilhabe: Derzeit unklar. Sobald Informationen verfügbar sind, wird an dieser Stelle über Treffen und Gremien des Konsortiums informiert.
 
-NFDI4Language (für Künstliche Intelligenz und historische und linguistische Fächer)
+
+### NFDI4Language (für Künstliche Intelligenz und historische und linguistische Fächer)
 * Webauftritt: bisher nicht vorhanden
 * Kontakt: Dr. Georg Rehm georg.rehm@dfki.de
 * Stand: Antragstellung 2021 geplant
