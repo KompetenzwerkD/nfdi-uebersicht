@@ -15,14 +15,14 @@ Wichtige Fakten:
 * in der Zukunft die maßgebliche Anlaufstelle im Bereich (digitaler) Forschungsdaten
 * Konsortien werden zunächst für fünf Jahre mit einem Budget von jeweils ca. 2-4 Mio EUR jährlich gefördert
 
-[mehr zur Förderlinie und dem Stand der Antragsverfahren] (https://www.dfg.de/foerderung/programme/nfdi/)
+[mehr zur Förderlinie und dem Stand der Antragsverfahren](https://www.dfg.de/foerderung/programme/nfdi/)
 
 ## Konsortien
 
 Für den Schwerpunkt der (Digitalen) Geisteswissenschaften gibt es derzeit folgende Konsortieninitiativen:
 
 NFDI Text+
-* Webauftritt: https://www.text-plus.org/
+* Webauftritt: [Link](https://www.text-plus.org/)
 * Kontakt: Erhard Hinrichs hinrichs@ids-mannheim.de 
 * Stand: derzeit in Begutachtung, Entscheidung im Frühsommer 2020
 * Beteiligte Netzwerkpartner: SAW
@@ -32,7 +32,7 @@ NFDI Text+
 * Möglichkeiten der Teilhabe: Nach der Förderentscheidung wird an dieser Stelle über Treffen und Gremien des Konsortiums informiert
 
 NFDI4Culture
-* Webauftritt: https://www.nfdi4culture.de/
+* Webauftritt: [Link](https://www.nfdi4culture.de/)
 * Kontakt:
 ** Prof. Dr. Dörte Schmidt dschmidt@udk-berlin.de
 ** Prof. Dr. Holger Simon simon@pausanio.com
@@ -45,7 +45,7 @@ NFDI4Culture
 * Möglichkeiten der Teilhabe: Nach der Förderentscheidung wird an dieser Stelle über Treffen und Gremien des Konsortiums informiert
 
 NFDI4Memory
-* Webauftritt: https://4memory.de/
+* Webauftritt: [Link](https://4memory.de/)
 * Kontakt: Johannes Paulmann: 4memory@ieg-mainz.de
 * Stand: Antragstellung läuft, Abgabe im Oktober 2020 geplant
 * Beteiligte Netzwerkpartner: HAIT und ISGV
@@ -58,7 +58,7 @@ NFDI4Memory
 
 
 NFDI4Objects
-* Webauftritt: https://www.nfdi4objects.net/
+* Webauftritt: [Link](https://www.nfdi4objects.net/)
 * Kontakt:
 ** Philipp von Rummel philipp.von.rummel@berliner-antike-kolleg.org
 ** Alexandra Busch generaldirektorin@rgzm.de
