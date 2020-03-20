@@ -1,5 +1,4 @@
-# Übersicht Nationale Forschungsdateninfrastruktur (NFDI)
-# Konsortien im Bereich Digital Humanities
+# Übersicht Nationale Forschungsdateninfrastruktur (NFDI) - Konsortien im Bereich Digital Humanities
 
 *Stand: 20.03.2020*
 
@@ -20,7 +19,7 @@ Wichtige Fakten:
 
 ## Konsortien
 
-Für den Schwerpunkt der (Digitalen) Geisteswissenschaften gibt es derzeit folgende Konsortieninitiativen:
+Für den Schwerpunkt der (Digitalen) Geisteswissenschaften gibt es derzeit folgende Konsortieninitiativen:\
 
 
 ### NFDI Text+
