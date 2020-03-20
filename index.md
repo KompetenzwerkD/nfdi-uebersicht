@@ -19,7 +19,7 @@ Wichtige Fakten:
 
 ## Konsortien
 
-Für den Schwerpunkt der (Digitalen) Geisteswissenschaften gibt es derzeit folgende Konsortieninitiativen:\
+Für den Schwerpunkt der (Digitalen) Geisteswissenschaften gibt es derzeit folgende Konsortieninitiativen:
 
 
 ### NFDI Text+
