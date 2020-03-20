@@ -1,4 +1,5 @@
-# Kurzübersicht Nationale Forschungsdateninfrastruktur (NFDI) - Konsortien im Bereich Digital Humanities
+# Übersicht Nationale Forschungsdateninfrastruktur (NFDI)
+# Konsortien im Bereich Digital Humanities
 
 *Stand: 20.03.2020*
 
